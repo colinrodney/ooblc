@@ -1,0 +1,77 @@
+"OUT OF THE BOX LEARNING CENTER"
+
+GIT INFO:
+repository name:
+colinrodney/ooblc
+*************************
+
+CRITICAL INFO
+*************************
+Out of the box learning center
+
+Age Groups Served:
+  > 0-5 years old 
+
+- Pricing:
+  > Prices are $300 a week
+
+Local Competition:
+  Hoskins learning center 
+  Kiddie corner
+
+  > What will we be offering that these learning centers are NOT offering?
+****************************
+
+My Questions:
+  Location (Address)?
+  - Hours of Operation?
+    > Open Holidays?
+
+Contacat Information ( Phone #/ email/ social media)?
+
+Services offered?
+  > What do people get for $300/ week?
+
+  > Are you Insured / Trust Icons?
+
+  > Covid-19 Protocol?
+
+Target Clients?
+  > What groups of people are we trying to attract?
+  - Working Parents?
+  - Single Parents?
+
+
+
+
+
+
+
+
+**************************
+TODOS:
+
+***Develop COLOR SCHEME NOW + build design system"
+
+1. Use Bootstrap?
+- initiate SASS on this project as well!
+
+2. Start working on layout
+
+3. SEO!!
+
+4. Figure out what picture to use for hero image
+
+5. Figure out what options should go into navbar
+
+6. ***Optimize the images!! They are taking way too long to load!!*** (consider creating one version of the image to load on mobile and another version to load @ desktop!!)
+
+
+Style Guide:
+
+black: #060A0F;
+Green: #20D96E;
+Tan: #CDB582;
+Blue: #0842BF;
+
+What are you learning?

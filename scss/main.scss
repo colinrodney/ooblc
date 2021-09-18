@@ -1,0 +1,71 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+// Add Color Scheme
+:root {
+  // TEST COLOR SCHEME
+  --lightgray: #eee;
+  --chinese-silver: #ccc;
+  --spanish-gray: #999;
+  --darkgray: #666;
+  --charcoal: #333;
+  --black: #000;
+
+  // MAIN COLOR SCHEME
+  // black hsl(213, 43%, 4%);
+  // green hsl(145, 74%, 49%)
+  // tan 	hsl(41, 43%, 66%)
+  // blue hsl(221, 92%, 39%)
+}
+
+// global styles
+ul {
+  list-style-type: none;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+// END: global styles
+
+body {
+  // background-color: var(--lightgray);
+
+  nav {
+    background-color: var(--chinese-silver);
+  }
+}
+
+.main-content {
+  .container-fluid {
+    background-color: var(--lightgray);
+  }
+
+  #about {
+    margin: 4rem auto;
+  }
+
+  .section-heading {
+    text-align: center;
+  }
+
+  footer {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    // border: 2px solid purple;
+    height: 30vh;
+    margin-top: -1.5rem;
+    padding: 1rem;
+
+    address {
+      text-align: center;
+      margin: 1rem;
+    }
+  }
+}
