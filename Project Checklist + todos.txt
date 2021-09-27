@@ -66,6 +66,8 @@ TODOS:
 
 6. ***Optimize the images!! They are taking way too long to load!!*** (consider creating one version of the image to load on mobile and another version to load @ desktop!!)
 
+!!! When installing sass make sure to have sass send output to dist/css
+
 
 Style Guide:
 
