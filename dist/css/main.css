@@ -29,21 +29,19 @@ body nav {
 .main-content .container-fluid {
   background-color: var(--lightgray);
 }
-.main-content #about {
-  margin: 4rem auto;
-}
 .main-content .section-heading {
   text-align: center;
 }
-.main-content footer {
+
+footer {
   background-color: #000;
   color: #fff;
   text-align: center;
   height: 30vh;
-  margin-top: -1.5rem;
+  margin-top: -2.5rem;
   padding: 1rem;
 }
-.main-content footer address {
+footer address {
   text-align: center;
   margin: 1rem;
 }
